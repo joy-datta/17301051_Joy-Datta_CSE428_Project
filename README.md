@@ -27,4 +27,6 @@
   2. SubItem 2
   3. SubItem 3
 
-<p>This is a paragraph</p>
+'<p>This is a paragraph</p>'
+
+![Markdown Logo](https://1.bp.blogspot.com/-Kd0OYcqSxWQ/XT-kpqhXMPI/AAAAAAAAZ2w/HrYavOs8Fws4VsdXJ_Jq0YPFIgBiS1K9ACEwYBhgL/s320/Machine%2BLearning%2Bwith%2BPython%2BCookbook.jpg)
