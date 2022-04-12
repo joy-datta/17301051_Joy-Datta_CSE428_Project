@@ -5,6 +5,6 @@
 ##### Heading 5
 ###### Heading 6
 
-*#Italic*
+*Italic*
 
 **This is a strong text**
