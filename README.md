@@ -34,5 +34,6 @@
 
 ```python
 def sum(x+y):
-return x+y
+ return x+y
+sum = sum(10, 5)
 ```
