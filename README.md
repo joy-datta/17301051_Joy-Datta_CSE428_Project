@@ -1,7 +1,6 @@
-# 17301051_Joy-Datta_CSE428_Project
-## Image generation task ipynb: image generation 2.ipynb
-## Image quality checking using SSIM, UQI, MSE etc. : image qualty checking.ipynb
-## Number of epochs vs generated images gif: gifgg.gif
-## Original vs generated image: org_gen_1.png
-## generator and discriminator loss graph : generator_graph (1).png and discriminator_graph.png
-## Imagehash: IMAGE_SIMILARITY_CHECK.ipynb
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
